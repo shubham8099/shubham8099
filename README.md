@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning BCA(IBM)
 - 📫 How to reach me With My e-mail Text me on my email
 - 😄 Pronouns:- Call me By Shubham 🤗
-- ⚡ Fun fact: i love my work with Doing masti
+- ⚡ Fun fact: i love to solve the Maths Question with Doing masti 🤭
 
 <!---
 shubham8099/shubham8099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
