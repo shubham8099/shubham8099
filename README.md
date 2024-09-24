@@ -1,7 +1,7 @@
 - 👋 Hi, I’m shubham_shah
 - 👀 I’m interested in programming language
 - like-Python,R,SQL,Flask
-- 🌱 I’m currently learning BCA(IBM)
+- 🌱 I’m currently learning BCA
 - 📫 How to reach me With My e-mail Text me on my email(shubhamshah8099@gmail.com)
 - 😄 Pronouns:- Call me By Shubham 🤗
 - ⚡ Fun fact: i love to solve the Maths Question with Doing masti 🤭
